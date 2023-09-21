@@ -5,6 +5,7 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 
 Activity 1
+
 <img width="499" alt="Screenshot 2023-09-21 at 13 22 24" src="https://github.com/amirseken/ECE444-F2023-Lab1/assets/74365816/722e4abc-4392-490b-a7a2-df893d6f1cdc">
 
 Activity 2
